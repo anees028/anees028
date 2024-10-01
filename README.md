@@ -3,7 +3,7 @@
 
 Driven and curious master's student in Artificial Intelligence at BTU Cottbus-Senftenberg, passionate about exploring the intersection of technology and problem-solving. Skilled in full-stack web development with experience in creating efficient and user-friendly applications. Always eager to learn and experiment with new technologies and coding projects. Let's collaborate and make a difference through technology. Check out my portfolio at https://aneesportfolio1.netlify.app/
 
-Skills: Angular / REACT / NodeJS / ExpressJS/ NestJS / FastAPI / JavaScript / TypeScript / Python / HTML / CSS / MySQL
+Skills: Angular / REACT / NodeJS / ExpressJS/ NestJS / FastAPI / JavaScript / TypeScript / Python / HTML / CSS / MySQL / Git / GitHub
 
 - 🔭 I’m currently working on this page... 
 
